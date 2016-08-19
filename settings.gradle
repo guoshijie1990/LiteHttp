@@ -1,1 +1,1 @@
-include ':app',":litehttp"
+include ':app'
